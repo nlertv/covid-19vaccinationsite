@@ -2,7 +2,7 @@
 
 ## Project Title
 Covid-19 vaccination provider location in Washington State (2021)
-![Final Project on vaccination provider location]( /assets/images/vaccinesite.png)
+![Final Project on vaccination provider location](img/vaccinesite.png)
 
 ## Project Descripton 
 This project is an interactive web map that features the Covid-19 Vaccination provider location in the Washington State. Since Covid-19 started, one of the most important ways to prevent the spread has been to get vaccinated. Furthermore, the first covid case in United State was founded in January 20,2020 in Washington State. Therefore, I want to focus on providing Covid-19 vaccination Site. To make it easier for the user, I tried to create a side bar that allows user to click on and it takes them to the location on the map. Which then becomes a pop-up that provide the name, the location and wether they require appointment or not. 
