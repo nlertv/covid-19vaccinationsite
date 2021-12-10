@@ -199,15 +199,15 @@
         const map = new mapboxgl.Map({
             container: 'map',
             style: 'mapbox://styles/nlertv/ckwwbmc5900go14pdrc6ztboy',
-            center: [-121, 47],
-            zoom: 6,
+            center: [-122.5, 47.7],
+            zoom: 9.3,
             scrollZoom: false
         });
 
         async function geojsonFetch() {
 
             let response, stores;
-            response = await fetch('assets/WAvacsite.geojson');
+            response = await fetch('assets/seattlesite.geojson');
             stores = await response.json()
 
             /**
